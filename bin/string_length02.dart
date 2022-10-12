@@ -7,7 +7,9 @@
         True or False
      */
 bool func(String s) {
-  return s.length % 2 == 0;
+  int n = s.length;
+  bool answer = n % 2 == 0;
+  return answer;
 }
 
 void main() {
