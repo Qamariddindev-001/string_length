@@ -6,6 +6,11 @@
     Returns:
         True or False
      */
+bool func(String s) {
+  return s.length % 2 == 0;
+}
+
 void main() {
+  print(func('Qamariddin'));
   // write your code here
 }
