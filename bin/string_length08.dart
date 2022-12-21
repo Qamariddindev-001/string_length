@@ -16,6 +16,6 @@ String func(String s) {
 }
 
 void main() {
-  print(func('cooll'));
+  print(func('coolll'));
   // write your code here
 }
